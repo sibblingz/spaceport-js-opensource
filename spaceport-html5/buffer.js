@@ -1,0 +1,3 @@
+define('buffer', [], function() {
+	return [];
+});

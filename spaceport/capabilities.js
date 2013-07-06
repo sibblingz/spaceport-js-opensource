@@ -1,0 +1,3 @@
+define('capabilities', [], function() {
+	return {};
+});

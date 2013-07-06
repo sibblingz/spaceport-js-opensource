@@ -1,0 +1,3 @@
+define('pendingSoundCalls', [], function() {
+	return [];
+});

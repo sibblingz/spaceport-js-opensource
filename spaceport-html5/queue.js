@@ -1,0 +1,3 @@
+define('queue', [], function() {
+	return [];
+});
